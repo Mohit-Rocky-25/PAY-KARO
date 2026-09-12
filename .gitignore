@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Agents / AI
+.agents/
+.gemini/
